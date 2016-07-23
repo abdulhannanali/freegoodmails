@@ -1,0 +1,29 @@
+{
+  "name": "freegoodmails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "body-parser": "^1.15.2",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.8",
+    "kramed": "^0.5.6",
+    "lusca": "^1.4.1",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^4.5.5",
+    "morgan": "^1.7.0",
+    "nodemailer": "^2.5.0",
+    "nodemailer-mailgun-transport": "^1.2.1",
+    "pug": "^2.0.0-beta4",
+    "validator": "^5.5.0"
+  }
+}
