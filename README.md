@@ -1,4 +1,6 @@
 # freegoodmails
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/abdulhannanali/freegoodmails.svg)](https://greenkeeper.io/)
 Send free emails using API and client
 
 
